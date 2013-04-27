@@ -1,0 +1,17 @@
+/Gemfile.lock
+
+# Ignore bundler config
+/.bundle
+
+/log/*.log
+tmp/
+.sass-cache/
+.DS_Store
+Thumbs.db
+*.orig
+*.swp
+*.swo
+
+pkg
+.rvmrc
+.project
